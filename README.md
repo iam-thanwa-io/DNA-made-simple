@@ -1,1 +1,1 @@
-# DNAReduced
+# DNA-made-simple

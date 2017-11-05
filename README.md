@@ -1,1 +1,1 @@
-# DNA-made-simple
+# DNA-ready
